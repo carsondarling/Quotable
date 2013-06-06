@@ -8,4 +8,4 @@
 
 "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time." - _Tom Cargill_
 
-
+"Nothing will ever be attempted if all possible objections must first be overcome." - _Samuel Johnson_
